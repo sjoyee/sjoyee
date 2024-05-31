@@ -16,9 +16,9 @@
   * Subscription Tracker App - Full Stack (MERN) 💡 [Repo](https://github.com/sjoyee/subscription-tracker-app) 💡
   * Chat Application - Back End (Spring Boot) 🔨 In progress 🔨
 
-🌱 I’m currently learning:
+🌱 During my free time, I’m learning:
   * Spring framework
-  * Three.js / RF3 development
+  * Three.js / R3F development
 
 🌱 How to reach me:
   * Email: siangjoyee@gmail.com
