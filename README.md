@@ -9,13 +9,14 @@
   * Database: PostgreSQL, MongoDB
   * IAM Product: SailPoint IdentityNow
 
-🌱 I've obtained the following certifications, specifically in the IAM field:
+🌱 I've obtained the following achievements / certifications, specifically in the IAM field:
   * SailPoint IdentityNow Professional
   * SailPoint IdentityIQ Associate
+  * SailPoint Developer Community Ambassador 🔭 [Profile](https://developer.sailpoint.com/discuss/u/sjoyee/summary) 🔭
 
 🌱 I’m currently working on the following hobby projects:
   * Subscription Tracker App - Full Stack (MERN) 💡 [Repo](https://github.com/sjoyee/subscription-tracker-app) 💡
-  * Chat App - Back End (Spring Boot) 🔨 In progress 🔨
+  * Chat App - Backend (Spring Boot) 🔨 In progress 🔨
 
 🌱 During my free time, I’m learning:
   * Spring framework
