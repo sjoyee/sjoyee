@@ -2,11 +2,12 @@
 
 🌱 This is Jo Yee. I graduated from Monash University Malaysia with Bachelor of Computer Science - Advanced Computer Science.
 
-🌱 I've worked with the following languages and framework throughout my career and academic journey:  
+🌱 I've worked with the following languages, framework, and product throughout my career and academic journey:  
   * Languages: Java, Python, JavaScript
   * Frontend: React, Vue, Tailwind CSS
   * Backend: Spring Boot, Django, Node.js
   * Database: PostgreSQL, MongoDB
+  * IAM Product: SailPoint IdentityNow
 
 🌱 I've obtained the following certifications, specifically in the IAM field:
   * SailPoint IdentityNow Professional
@@ -14,7 +15,7 @@
 
 🌱 I’m currently working on the following hobby projects:
   * Subscription Tracker App - Full Stack (MERN) 💡 [Repo](https://github.com/sjoyee/subscription-tracker-app) 💡
-  * Chat Application - Back End (Spring Boot) 🔨 In progress 🔨
+  * Chat App - Back End (Spring Boot) 🔨 In progress 🔨
 
 🌱 During my free time, I’m learning:
   * Spring framework
