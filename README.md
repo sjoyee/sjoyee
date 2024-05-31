@@ -10,9 +10,9 @@
   * IAM Product: SailPoint IdentityNow
 
 🌱 I've obtained the following achievements / certifications, specifically in the IAM field:
-  * SailPoint IdentityNow Professional
-  * SailPoint IdentityIQ Associate
-  * SailPoint Developer Community Ambassador 🔭 [Profile](https://developer.sailpoint.com/discuss/u/sjoyee/summary) 🔭
+  * SailPoint IdentityNow Professional 🏅 [Certificate](https://api.badgr.io/public/assertions/4onUijrzTgaCsislwCipOQ) 🏅
+  * SailPoint IdentityIQ Associate 🏅 [Certificate](https://api.badgr.io/public/assertions/OSXQQu3cQam5NXDZHJMfbA) 🏅
+  * SailPoint Developer Community Ambassador 🏅 [Profile](https://developer.sailpoint.com/discuss/u/sjoyee/summary) 🏅
 
 🌱 I’m currently working on the following hobby projects:
   * Subscription Tracker App - Full Stack (MERN) 💡 [Repo](https://github.com/sjoyee/subscription-tracker-app) 💡
